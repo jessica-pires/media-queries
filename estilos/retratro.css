@@ -1,0 +1,5 @@
+/* como retrato(portrait) dispositivos em pé */
+
+body{
+    background-image: url(../img/cev-portrait.jpg);
+}
